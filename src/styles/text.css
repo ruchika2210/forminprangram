@@ -1,0 +1,26 @@
+.heading {
+  color: blue;
+  font-weight: bold;
+  font-size: larger;
+  text-align: center;
+  padding: 3% 0% 0% 0%;
+}
+
+.description {
+  text-align: center;
+  padding: 0 30% 0% 30%;
+}
+
+.paradesc {
+  text-align: left;
+  padding-right: 20%;
+  padding-left: 15%;
+  padding-top: 2%;
+}
+
+.borderBox {
+  border: 1px solid grey;
+  height: 100px;
+  width: 65%;
+  margin-left: 15%;
+}

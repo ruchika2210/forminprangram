@@ -1,0 +1,32 @@
+.optionstyle {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  flex-direction: column;
+}
+
+.formlabel {
+  color: black;
+  font-weight: bold;
+  display: flex;
+  flex-direction: column;
+}
+
+.optionlabel {
+  color: black;
+  font-weight: bold;
+}
+
+.btnstyle {
+  margin-top: 5% !important;
+  margin-left: 50% !important;
+}
+
+.bottomButtons {
+  margin-left: 45%;
+  margin-top: 2%;
+}
+
+.next {
+  margin-left: 5% !important;
+}
